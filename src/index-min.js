@@ -5737,6 +5737,7 @@ function() {
 		});
 		var e = "video article book movie podcast other";
 		$(".links ul li").on("mouseover", function() {
+			console.log('inside the code');
 			$(".links ul li").removeClass("highlight");
 			var t = $(this).attr("class");
 			$(".type").removeClass(e), $(".type").addClass(t), $(window).width() > 500 && ($(".links ul li").addClass("hide"), $(".links ul li." + t).addClass("highlight"))
@@ -5767,6 +5768,7 @@ function() {
 		})
 	}! function(t, n, i) {
 		$.getJSON(t, function(t) {
+			console.log('compiling the handle bar')
 			var r = $(n).html(),
 				s = Handlebars.compile(r)(t);
 			$(i).append(s), e()
