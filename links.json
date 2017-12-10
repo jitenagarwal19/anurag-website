@@ -1,0 +1,341 @@
+{
+	"links": [
+		{
+			"year": "2017",
+			"months": [
+				{
+					"month": "December",
+					"links": [
+						{
+							"type": "video",
+							"title": "The Zipf Mistery",
+							"date": "6th",
+							"link": "https://www.youtube.com/watch?v=fCn8zs912OE&ab_channel=Vsauce"
+						},
+						{
+							"type": "video",
+							"title": "The State Of UX in 2018",
+							"date": "5th",
+							"link": "https://trends.uxdesign.cc/"
+						},
+						{
+							"type": "video",
+							"title": "World's Heaviest Weight",
+							"date": "4th",
+							"link": "https://www.youtube.com/watch?v=_k9egfWvb7Y&feature=youtu.be&ab_channel=Veritasium"
+						},
+						{
+							"type": "book",
+							"title": "How To Win Friends And Influence People",
+							"date": "3rd",
+							"link": "http://amzn.to/2BGR0bj"
+						},
+						{
+							"type": "other",
+							"title": "FutureLearn",
+							"date": "2nd",
+							"link": "https://www.futurelearn.com/courses"
+						}
+					]
+				},
+				{
+					"month": "November",
+					"links": [
+						{
+							"type": "video",
+							"title": "World's Heaviest Weight",
+							"date": "2nd",
+							"link": "https://www.youtube.com/watch?v=_k9egfWvb7Y&feature=youtu.be&ab_channel=Veritasium"
+						},
+						{
+							"type": "video",
+							"title": "How The Train Stays On The Wheels",
+							"date": "29th",
+							"link": "https://www.youtube.com/watch?v=y7h4OtFDnYE&feature=youtu.be&ab_channel=ChristopherSykes"
+						},
+						{
+							"type": "book",
+							"title": "Rich Dad, Poor Dad",
+							"date": "28th",
+							"link": "http://amzn.to/2BwbLX2"
+						},
+						{
+							"type": "article",
+							"title": "How Traveling Back In Time Could Be Possible",
+							"date": "26th",
+							"link": "https://medium.com/starts-with-a-bang/how-traveling-back-in-time-could-really-physically-be-possible-b212517d01c9"
+						},
+						{
+							"type": "video",
+							"title": "For The Love Of Physics",
+							"date": "26th",
+							"link": "https://www.youtube.com/watch?v=4a0FbQdH3dY"
+						},
+						{
+							"type": "other",
+							"title": "Mind Blowing Facts",
+							"date": "24th",
+							"link": "https://www.reddit.com/r/AskReddit/comments/6z9la7/what_fact_blows_your_mind_everytime/"
+						},
+						{
+							"type": "video",
+							"title": "Nerdwriter1",
+							"date": "24th",
+							"link": "https://www.youtube.com/user/Nerdwriter1"
+						},
+						{
+							"type": "article",
+							"title": "The Outline",
+							"date": "22th",
+							"link": "https://theoutline.com/"
+						},
+						{
+							"type": "video",
+							"title": "Learn Quick",
+							"date": "21th",
+							"link": "https://www.youtube.com/playlist?list=PLNzrbm54vMGd2w16OQvtApxat5q9XNen5"
+						},
+						{
+							"type": "book",
+							"title": "The Power of Habit",
+							"date": "21th",
+							"link": "http://amzn.to/2jKkKPR"
+						},
+						{
+							"type": "book",
+							"title": "The Design of Everyday Things",
+							"date": "19th",
+							"link": "http://amzn.to/2jCGxZL"
+						},
+						{
+							"type": "article",
+							"title": "Reconstructing Visual Experiences",
+							"date": "14th",
+							"link": "http://www.cell.com/current-biology/fulltext/S0960-9822(11)00937-7"
+						},
+						{
+							"type": "article",
+							"title": "Why Reality Is an Illusion",
+							"date": "13th",
+							"link": "https://medium.com/personal-growth/reality-is-an-illusion-e03e779408b8"
+						},
+						{
+							"type": "article",
+							"title": "How I Monetized A Niche Side Project",
+							"date": "12th",
+							"link": "https://medium.com/@HitDelete/how-i-monetized-a-niche-side-project-into-my-full-time-gig-5994a361ac4e"
+						},
+						{
+							"type": "video",
+							"title": "What Screens Want",
+							"date": "9th",
+							"link": "https://www.youtube.com/watch?v=C65tiyH74D0"
+						},
+						{
+							"type": "book",
+							"title": "Predictably Irrational",
+							"date": "8th",
+							"link": "http://amzn.to/2hHaiYL"
+						},
+						{
+							"type": "video",
+							"title": "Launching Airbnb and the Challenges of Scale",
+							"date": "6th",
+							"link": "https://www.youtube.com/watch?v=W608u6sBFpo"
+						},
+						{
+							"type": "video",
+							"title": "I'm Not Sure I Wanna Be Me",
+							"date": "5th",
+							"link": "https://www.youtube.com/watch?v=4HPR8WDwWb0"
+						},
+						{
+							"type": "article",
+							"title": "Lazy Leadership",
+							"date": "3rd",
+							"link": "https://medium.com/flow/lazy-leadership-8ba19e34f959"
+						},
+						{
+							"type": "book",
+							"title": "Essentialism: The Disciplined Pursuit of Less",
+							"date": "2nd",
+							"link": "http://amzn.to/2jzSgbz"
+						},
+						{
+							"type": "article",
+							"title": "The Power of Anti-Goals",
+							"date": "1st",
+							"link": "https://medium.com/@awilkinson/the-power-of-anti-goals-c38f5f46d23c"
+						}
+					]
+				},
+				{
+					"month": "October",
+					"links": [
+						{
+							"type": "book",
+							"title": "Principles: Life and Work",
+							"date": "28th",
+							"link": "http://amzn.to/2AQssLv"
+						},
+						{
+							"type": "book",
+							"title": "Shoe Dog: A Memoir by the Creator of Nike",
+							"date": "26th",
+							"link": "http://amzn.to/2zPX00B"
+						},
+						{
+							"type": "article",
+							"title": "Something Is Wrong On The Internet",
+							"date": "25th",
+							"link": "https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2"
+						},
+						{
+							"type": "other",
+							"title": "Trump Fact Checker",
+							"date": "22nd",
+							"link": "https://www.washingtonpost.com/graphics/politics/trump-claims-database/?utm_term=.1eed1f0102ac"
+						},
+						{
+							"type": "book",
+							"title": "Screw It, Let's Do It: Lessons In Life",
+							"date": "21st",
+							"link": "http://amzn.to/2hGIvYx"
+						},
+						{
+							"type": "article",
+							"title": "Ustwo Rethinks the Agency Business Model",
+							"date": "20th",
+							"link": "http://99u.com/articles/54497/ustwo-rethinks-the-agency-business-model"
+						},
+						{
+							"type": "article",
+							"title": "Want to Be a Billionaire? Solve “I want X but Y”",
+							"date": "13th",
+							"link": "https://medium.com/startup-grind/want-to-become-a-billionaire-solve-i-want-x-but-y-123f8b4cb050"
+						},
+						{
+							"type": "book",
+							"title": "Blink: The Power of Thinking Without Thinking",
+							"date": "10th",
+							"link": "http://amzn.to/2ARTjXw"
+						},
+						{
+							"type": "book",
+							"title": "Answers to Questions You’ve Never Asked",
+							"date": "9th",
+							"link": "http://amzn.to/2hIFTZZ"
+						},
+						{
+							"type": "article",
+							"title": "Optical Adjustment",
+							"date": "8th",
+							"link": "https://medium.com/@lukejones/optical-adjustment-b55492a1165c"
+						},
+						{
+							"type": "book",
+							"title": "Hatching Twitter",
+							"date": "7th",
+							"link": "http://amzn.to/2jIpjKI"
+						},
+						{
+							"type": "article",
+							"title": "The Ugly Truth About Being an Entrepreneur",
+							"date": "4th",
+							"link": "https://medium.com/@larrykim/the-ugly-truth-about-being-an-entrepreneur-68c34d51e36e"
+						}
+					]
+				},
+				{
+					"month": "September",
+					"links": [
+						{
+							"type": "article",
+							"title": "Lessons Learned Scaling Airbnb 100X",
+							"date": "30th",
+							"link": "https://medium.com/@jgolden/lessons-learned-scaling-airbnb-100x-b862364fb3a7"
+						},
+						{
+							"type": "book",
+							"title": "Being Human in the Age of Artificial Intelligence",
+							"date": "28th",
+							"link": "http://amzn.to/2hJHC1d"
+						},
+						{
+							"type": "article",
+							"title": "Redesigning Ugmonk: A Year in the Making",
+							"date": "24th",
+							"link": "https://ugmonk.com/2016/06/04/the-design-process-behind-the-rebrand/"
+						},
+						{
+							"type": "book",
+							"title": "Influence: The Psychology of Persuasion",
+							"date": "22nd",
+							"link": "http://amzn.to/2hJHVJpC"
+						},
+						{
+							"type": "article",
+							"title": "Procrastination As The Ultimate Productivity Hack",
+							"date": "21nd",
+							"link": "https://medium.com/@vanschneider/how-to-procrastinate-932cb5935eca"
+						},
+						{
+							"type": "book",
+							"title": "Payoff: The Hidden Logic That Shapes Our Motivations",
+							"date": "16th",
+							"link": "http://amzn.to/2hIgdgr"
+						},
+						{
+							"type": "book",
+							"title": "On Writing Well",
+							"date": "12th",
+							"link": "http://amzn.to/2j37GB6"
+						},
+						{
+							"type": "book",
+							"title": "The Art of Choosing",
+							"date": "9th",
+							"link": "http://amzn.to/2j3z8Ph"
+						},
+						{
+							"type": "book",
+							"title": "Outliers: The Story of Success",
+							"date": "6th",
+							"link": "http://amzn.to/2hIYlSg"
+						},
+						{
+							"type": "other",
+							"title": "Class Central",
+							"date": "5th",
+							"link": "https://www.class-central.com/"
+						},
+						{
+							"type": "book",
+							"title": "The Obstacle Is the Way",
+							"date": "4th",
+							"link": "http://amzn.to/2hIMjZq"
+						},
+						{
+							"type": "article",
+							"title": "How Elon Musk Learns Faster And Better Than Everyone Else",
+							"date": "3rd",
+							"link": "https://medium.com/@michaeldsimmons/how-elon-musk-learns-faster-and-better-than-everyone-else-a010a4f586ef"
+						},
+						{
+							"type": "article",
+							"title": "When The Racist Is Someone You Know and Love",
+							"date": "2nd",
+							"link": "https://medium.com/embrace-race/when-the-racist-is-someone-you-know-and-love-2933c7049182"
+						},
+						{
+							"type": "book",
+							"title": "How to Rap: The Art and Science of the Hip-Hop MC",
+							"date": "1st",
+							"link": "http://amzn.to/2hKwvoO"
+						}
+					]
+				}
+			]
+		}
+	]
+}
